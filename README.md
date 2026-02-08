@@ -50,10 +50,9 @@ The book's code has been independently translated by the community:
 | Format | Link |
 |--------|------|
 | Paperback | [Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604) |
-| Kindle | [Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604) |
 | PDF | [Gumroad](https://mikexcohen.gumroad.com/l/linearalgebra) |
-| SPANISH PDF | [Gumroad](https://mikexcohen.gumroad.com/l/linearalgebra_es) |
-| SPANISH Paperback/Kindle | [Amazon.es](https://www.amazon.es/dp/B0DC6QY81S/) |
+|| SPANISH Paperback | [Amazon.es](https://www.amazon.es/dp/B0DC6QY81S/) |
+ SPANISH PDF | [Gumroad](https://mikexcohen.gumroad.com/l/linearalgebra_es) |
 
 ## About the Author
 
